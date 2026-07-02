@@ -92,13 +92,9 @@ li {
   margin: 10px 0;
 }
 
-/* ==========================
-   Links
-========================== */
 a {
   color: #0d6efd;
 }
-
 
 .border-box {
   width: 300px;
@@ -108,7 +104,6 @@ a {
   background: #ffe5e5;
   margin: 20px 0;
 }
-
 
 .content-box {
   width: 300px;
